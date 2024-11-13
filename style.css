@@ -261,3 +261,7 @@ width: 100%;
         width: 0;
     }
 }
+
+.about-content h2 {
+    text-align: center;
+}
