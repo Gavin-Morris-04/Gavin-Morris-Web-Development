@@ -7,6 +7,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: #081b29;
     color: white;
@@ -261,7 +265,27 @@ width: 100%;
         width: 0;
     }
 }
-
+.about {
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
 .about-content h2 {
+    text-align: center;
+}
+.services {
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.services-content h2 {
+    text-align: center;
+}
+
+.contact {
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.contact-content h2 {
     text-align: center;
 }
